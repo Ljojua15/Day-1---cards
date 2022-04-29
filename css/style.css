@@ -9,6 +9,7 @@
         min-height: 100vh;
         overflow: hidden;
         margin: 0;
+        background-color: rgb(30, 30, 32);
     }
     
     .conteiner {
@@ -17,6 +18,7 @@
     }
     
     .panel {
+        border: 10px groove #fff;
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
